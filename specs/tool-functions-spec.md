@@ -13,6 +13,7 @@ These two functions are the tools the agent can call. They retrieve structured d
 
 ## Function 1: `lookup_plant()`
 
+
 ### Input / Output Contract
 
 **Inputs:**
